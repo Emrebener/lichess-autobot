@@ -1,0 +1,3 @@
+# Place your UCI chess engines (.exe files) in this directory
+
+# The application will scan this folder on startup and populate the engine dropdown
