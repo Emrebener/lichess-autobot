@@ -1,5 +1,8 @@
 # Lichess Autobot
 
+<img width="1920" height="1038" alt="image" src="https://github.com/user-attachments/assets/633b8476-c849-445c-84fd-f83bb7b9ab9f" />
+<img width="714" height="692" alt="image" src="https://github.com/user-attachments/assets/e5f31584-147c-4f72-818b-dbf5898431c1" />
+
 A desktop application that plays chess on Lichess using the Board API. This bot is designed for testing and understanding the Lichess Board API, particularly useful for physical chess board development.
 
 ## ⚠️ Important Notice
