@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/a1166eda-71de-4460-9b5d-d872371eb2f8" />
+
 # Lichess Autobot
 
 <img width="1920" height="1038" alt="image" src="https://github.com/user-attachments/assets/633b8476-c849-445c-84fd-f83bb7b9ab9f" />
